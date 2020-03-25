@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e4ab2b4-4a7c-48e9-8750-d27b8f339f8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jenkins.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jenkins.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stu/tif/controller/Jenkins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stu/tif/controller/Jenkins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,18 @@
       </set>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/idea/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1Zc3cCttYBIwfx7uQKFHZTKE3nZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +56,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -68,21 +83,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585124631846</updated>
-      <workItem from="1585124634974" duration="722000" />
+      <workItem from="1585124634974" duration="1210000" />
+      <workItem from="1585125859505" duration="425000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1585125402596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585125402596</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1585124885345">
+    <state x="486" y="267" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1585125937543">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585124885345" />
-    <state x="186" y="29" key="SettingsEditor" timestamp="1585124712561">
+    <state x="486" y="267" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.768@0.0.1366.768" timestamp="1585125937543" />
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1585125401629">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585124712561" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585125401629" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1585125956703">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585125956703" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1585125404875">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1585125404875" />
+    <state x="57" y="88" key="new project wizard" timestamp="1585126028825">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="57" y="88" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1585126028825" />
   </component>
 </project>
